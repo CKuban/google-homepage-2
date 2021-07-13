@@ -1,1 +1,1 @@
-# google-homepage-2
+a simple google homepage replica project
